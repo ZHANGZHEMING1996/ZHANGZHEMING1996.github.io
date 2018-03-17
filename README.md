@@ -1,24 +1,11 @@
 
-happypeter.github.com
+zhangzheming1996.github.io
 ==============
 
 This repository contains the source for my personal site at
-<http://happypeter.github.com>.
+<http://happypeter.github.io.
 
 ## tips
 
-http://pages.github.com/
+Allen Zhang ' blog
 
-the url is
-
-http://happypeter.github.com
-
-not
-
-http://www.happypeter.github.com
-
-OK, now I see building a website is tough! even you think its merely simple tree with a couple of interlinks, and you don't want something pretty...
-
-## have focus
-
-<http://warpspire.com/posts/focus/>
